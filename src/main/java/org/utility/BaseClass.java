@@ -5,7 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
-
+//This is a Base Class
 public class BaseClass {
 	
 protected WebDriver driver;

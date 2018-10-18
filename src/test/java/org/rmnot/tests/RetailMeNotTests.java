@@ -9,7 +9,7 @@ public class RetailMeNotTests extends BaseClass {
 	
 
 	
-	
+	     // Writing tests for Retail Me Not Application
 	     @Test
          public void validateSearchForAmazonStore()
                { 
